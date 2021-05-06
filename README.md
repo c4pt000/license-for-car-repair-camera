@@ -5,4 +5,4 @@ to prevent misuse and abuse from the regular consumer
 
 with serial linked to the license to own the optical viewfinder, 
 
-with a watermark in the lower hand corner of the serial number as part of the optical viewfinder
+with a watermark in a tile array with the serial number as part of the optical viewfinder
